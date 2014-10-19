@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('undefined');
+  api.versionsFrom('0.9.4');
   api.addFiles('garrilla:topojson.js');
   api.addFiles('topojson/topojson.js','client');
   api.export('topojson','client')
