@@ -3,6 +3,8 @@ TopoJSON for MeteorJS
 
 A Meteor Package of the the D3 plugin TopoJSON.
 
+This version wraps `1.6.18`
+
 Install from your project root's command line
 
     meteor add garrilla:topojson
